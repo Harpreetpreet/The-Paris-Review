@@ -267,6 +267,7 @@ var defaultSites =
   "The New York Review of Books": "nybooks.com",
   "The New York Times": "nytimes.com",
   "The New Yorker": "newyorker.com",
+  "The Paris Review":"theparisreview.org",
   "The Philadelphia Inquirer": "inquirer.com",
   "The Point Magazine": "thepointmag.com",
   "The Saturday Paper": "thesaturdaypaper.com.au",
